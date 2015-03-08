@@ -1,1 +1,7 @@
-SWAP Algorithm
+# Python Implementation of the SWAP Algorithm for Sparse Linear Regression
+
+Reference:
+* D. Vats and R. G. Baraniuk, "When in Doubt, SWAP: High-Dimensional Sparse Recovery from Correlated Measurements, NIPS, 2014
+
+* D. Vats and R. G. Baraniuk, "Swapping Variables for High-Dimensional Sparse Regression with Correlated Measurements," 
+
